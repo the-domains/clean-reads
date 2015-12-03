@@ -1,8 +1,7 @@
 name: Clean Reads
 favicon: null
-layout_spectrum: 0.26079
-typography_spectrum: 0.5032
-title: Clean Reads
+layout_spectrum: 0.3327188512776047
+typography_spectrum: 0.8227806447539479
 cta:
   domain: null
   bucket: null
@@ -17,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#67686b'
-    - '#8bc53f'
-    - '#000000'
-    - '#ffffff'
-    - '#00ff00'
-  brandStrength: 0.75
-  lightness: 0.6875
-  saturation: 0.6875
-  rhythmicContrast: 0.5
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5537123559042811
+  lightness: 0.18937583663500845
+  saturation: 0.35841021803207695
+  rhythmicContrast: 0.06745002698153257
 purpose: []
